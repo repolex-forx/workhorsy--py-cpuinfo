@@ -1,0 +1,11 @@
+{
+  "org": "workhorsy",
+  "repo": "py-cpuinfo",
+  "versions": [
+    {
+      "commit": "f3f0fec58335b9699b9b294267c15f516045b1fe",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:53:34.827492+00:00"
+    }
+  ]
+}

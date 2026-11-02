@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/workhorsy/py-cpuinfo/commit/f3f0fec58335b9699b9b294267c15f516045b1fe",
       "git:hexsha": "f3f0fec58335b9699b9b294267c15f516045b1fe",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/workhorsy/py-cpuinfo/commit/7e85cebfcbdb7119bf671f876479950bb0c374bd",
